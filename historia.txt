@@ -1,2 +1,4 @@
 Este es un archivo de prueba para git
 para hacer pruebas.
+
+editando el archivo de historia
